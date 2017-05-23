@@ -1,4 +1,4 @@
-# WizardsBook
+# G O N G
 Simple little inventory management software, allows scanning, updating item quantities, staff accounts, checkout dates .etc
 
 - Transactions for all queries
