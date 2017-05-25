@@ -14,6 +14,11 @@
 Route::get('/', function () {
     return view('login');
 });
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/profile', 'ProfileController@index')->name('profile');
+Route::get('/users', 'UsersController@index')->name('users');
+Route::get('/inventory', 'InventoryController@index')->name('inventory');
+Route::get('/checkout', 'CheckoutController@index')->name('checkout');
