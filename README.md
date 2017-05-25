@@ -1,5 +1,6 @@
 # G O N G
-Simple little inventory management software, allows scanning, updating item quantities, staff accounts, checkout dates .etc
+Simple little inventory management software, allows scanning, updating item quantities, 
+staff accounts, checkout dates .etc
 
 - Transactions for all queries
 - Fully browser based, includes mobile and tablet browser support
